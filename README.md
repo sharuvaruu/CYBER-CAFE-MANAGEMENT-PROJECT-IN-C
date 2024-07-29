@@ -1,6 +1,6 @@
 # Cyber Management System
 
-This project implements a Cyber Management System designed for cyber environments such as cybercafes or coworking spaces. It provides functionalities for both administrators and users to manage and access the system efficiently.
+This project implements a Cyber Management System designed for cyber environments such as cybercafes or coworking spaces. It provides functionalities for both administrators and users to manage and access the system efficiently.I have done this project in my First year whwere I did not know much about how to make projects but still I tried tho!
 
 # Key Features
 1.User and Admin Interfaces: Seamlessly integrated user and admin functionalities, allowing distinct interaction experiences based on access levels.
